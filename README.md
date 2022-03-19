@@ -2,6 +2,7 @@ RasPi_nodered
 =============
 
 ラズパイ上にのっているNode-redのやつ。
+現在は、LINE notifyを用いたbotを作成中
 
 ### 説明
 これはプロジェクトのREADME.mdファイルです。このファイルには、
